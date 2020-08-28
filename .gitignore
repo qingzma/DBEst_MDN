@@ -1,0 +1,17 @@
+.DS_Store
+.idea/
+config.json
+dbestwarehouse/
+*.pyc
+resources/
+dbestclient.egg-info/
+build/
+dist/
+MNIST_data/
+dbest.sublime-workspace
+.vscode/
+notebook/
+.tox/
+.eggs/
+dbestclient/test.py
+
